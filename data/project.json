@@ -24,11 +24,77 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Background",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Form",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Performance",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Transcription",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Extra-Poetic Sounds",
+          "color": "#99AFF2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Altered",
+          "category": "Form"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Laugh",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Volume",
+          "category": "Performance"
+        },
+        {
+          "tag": "Title",
+          "category": "Transcription"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ]
     },
     "created_at": "2025-04-10T21:32:54.774Z",
-    "updated_at": "2025-04-10T21:35:34.806Z",
+    "updated_at": "2025-04-10T21:37:25.319Z",
     "generate_pages_site": true
   },
   "annotations": {},
